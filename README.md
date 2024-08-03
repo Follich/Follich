@@ -4,14 +4,23 @@
 
 ###
 
-<p align="center" >This github is focused on:<br> My created tools<br> my own articles<br> and programming languages!</p>
+<p align="center">This github is focused on:<br> My created tools<br> my own articles<br> and programming languages!</p>
 
 ###
 
-<img align="right" height="570" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
+<img align="right" width="550" height="765" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
 
 ###
 
+<div align="left">
+  <h3>Web</h3>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white">
+</div>
+
+###
 
 <div align="center">
   <h3>Languages</h3>
@@ -22,7 +31,7 @@
 
 ####
 
-<div align="center">
+<div align="right">
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
@@ -39,10 +48,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <h3>Social</h3>
   <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-###
