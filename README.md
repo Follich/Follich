@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" width="520" height="750" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
+<img align="right" width="500" height="740" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
 
 ###
 
