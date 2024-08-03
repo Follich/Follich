@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" width="480" height="745" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
+<img align="right" width="520" height="745" src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/9bb3de50-2180-457f-b5d1-90c7e52cd5ba/the-climber%2Fkokou-no-hito-the-solitary-person-9-sabukaru.jpg"/>
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>Web</h3>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
@@ -31,7 +31,7 @@
 
 ####
 
-<div align="right">
+<div align="center">
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
@@ -48,7 +48,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>Social</h3>
   <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
